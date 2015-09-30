@@ -18,14 +18,14 @@ TCP/IP Assignment with Dr Anang
 
 <h2>Work Distribution</h2>
 1.Kok Pin Zong
-<ol>
-  <li>main coder</li>
-  <li>code tester</li>
-</ol>
+<dl>
+  <dt>main coder</dt>
+  <dt>code tester</dt>
+</dl>
 
 2.Ahmad saifuddin
-<ol>
-<li>README.md</li>
-<li>research of references</li>
-</ol>
+<dl>
+<dt>README.md</dt>
+<dt>research of references</dt>
+</dl>
 <h2>codes<h2/>
